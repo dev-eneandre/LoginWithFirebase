@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/LoginWithFirebase/static/css/main.41dc2afb.chunk.css",
+    "main.js": "/LoginWithFirebase/static/js/main.963d8970.chunk.js",
+    "main.js.map": "/LoginWithFirebase/static/js/main.963d8970.chunk.js.map",
+    "runtime-main.js": "/LoginWithFirebase/static/js/runtime-main.ce09d867.js",
+    "runtime-main.js.map": "/LoginWithFirebase/static/js/runtime-main.ce09d867.js.map",
+    "static/js/2.fda7add6.chunk.js": "/LoginWithFirebase/static/js/2.fda7add6.chunk.js",
+    "static/js/2.fda7add6.chunk.js.map": "/LoginWithFirebase/static/js/2.fda7add6.chunk.js.map",
+    "static/js/3.d0165b04.chunk.js": "/LoginWithFirebase/static/js/3.d0165b04.chunk.js",
+    "static/js/3.d0165b04.chunk.js.map": "/LoginWithFirebase/static/js/3.d0165b04.chunk.js.map",
+    "index.html": "/LoginWithFirebase/index.html",
+    "static/css/main.41dc2afb.chunk.css.map": "/LoginWithFirebase/static/css/main.41dc2afb.chunk.css.map",
+    "static/js/2.fda7add6.chunk.js.LICENSE.txt": "/LoginWithFirebase/static/js/2.fda7add6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ce09d867.js",
+    "static/js/2.fda7add6.chunk.js",
+    "static/css/main.41dc2afb.chunk.css",
+    "static/js/main.963d8970.chunk.js"
+  ]
+}
